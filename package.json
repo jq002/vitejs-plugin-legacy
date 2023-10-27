@@ -8,7 +8,6 @@
   "engines": {
     "node": ">=12.0.0"
   },
-  "homepage": "https://github.com/vitejs/vite/tree/main/packages/plugin-legacy#readme",
   "dependencies": {
     "@babel/standalone": "^7.17.9",
     "core-js": "^3.33.1",
