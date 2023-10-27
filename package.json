@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "vitejs-plugin-legacy 1.8.1: core-js 用的不是最新版本",
   "license": "MIT",
-  "files": [
-    "index.js",
-    "index.d.ts"
-  ],
   "main": "index.js",
   "types": "index.d.ts",
   "engines": {
